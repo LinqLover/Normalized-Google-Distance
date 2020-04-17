@@ -8,6 +8,8 @@ If two search terms w1 and w2 never occur together on the same web page, but do 
 
 Conversely, if both terms always occur together, their NGD is zero.
 
+**Installation:** `pip3 install -r requirements.txt`
+
 # Methods
 ## Simple NGD
 To compute the NGD between two word:
